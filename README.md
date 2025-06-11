@@ -47,7 +47,7 @@ The entire process is orchestrated by the `GenEnv` class, which manages a single
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
+    git clone git@github.com:julianallchin/simple-coder.git
     cd simple-coder
     ```
 
